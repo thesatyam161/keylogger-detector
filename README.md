@@ -62,19 +62,9 @@ Some uses of a keylogger are:
   - **persist:** add to Windows Startup (Windows only).
   - **--allow-tor-install:** allow Tor Browser auto-install (Windows only). Disabled by default.
 
-### Video tutorials (similar but simpler projects)
-https://www.youtube.com/watch?v=uODkiVbuR-g
-https://www.youtube.com/watch?v=8BiOPBsXh0g
-
-### Known issues
-- Does not capture passwords auto-typed by KeePass, however, it captures KeePass DB passwords.
-- See [Keyboard: Known limitations](https://github.com/boppreh/keyboard#known-limitations). 
-Feel free to contribute to fix any problems, or to submit an issue!
 
 
 ### Notes
 Cyrillic layout is implemented, meaning support for these languages: Russian, Russian - Moldava, Azeri, Belarusian, Kazakh, Kyrgyz, Mongolian, Tajik, Tatar, Serbian, Ukrainian, Uzbek. 
 
 Please note that this repo is for educational purposes only. No contributors, major or minor, are responsible for any actions made by the software.
-
-Distributed under the MIT license. See [LICENSE](https://github.com/secureyourself7/python-keylogger/blob/master/LICENSE) for more information.
